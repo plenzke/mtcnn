@@ -1,2 +1,2 @@
 # mtcnn
-face recognition with mtcnn
+face recognition on mtcnn
